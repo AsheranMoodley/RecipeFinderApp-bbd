@@ -48,5 +48,6 @@ The app uses the Spoonacular api to get the data for the meals which can be foun
 "https://spoonacular.com/food-api"
 
 GOOGLE Drive link for the App : "https://drive.google.com/drive/folders/1T17x0nAz45NZ_f61oG0wwoJB1e373c0y?usp=sharing"	
+Video Demo Link "https://drive.google.com/file/d/1T1ybsAzd_UA-S7fzkgCRgL4KJ0RPgTzs/view?usp=sharing"
 
 Thank you
